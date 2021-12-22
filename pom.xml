@@ -33,21 +33,14 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-<<<<<<< HEAD
-=======
-		
->>>>>>> 8d3f4b45f155fab3728a94c493a1a7ab2dde9a1e
+
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<version>4.12</version>
 			<scope>test</scope>
 		</dependency>
-<<<<<<< HEAD
 
-
-=======
->>>>>>> 8d3f4b45f155fab3728a94c493a1a7ab2dde9a1e
 	</dependencies>
 
 	<build>
